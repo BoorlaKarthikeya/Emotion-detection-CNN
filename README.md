@@ -38,9 +38,9 @@ This project focuses on real-time emotion detection using Convolutional Neural N
     - Precision, Recall, and F1 scores were calculated for all emotion categories.
 ## output
 - **output1:**
-   ![output1](output/output1.png)
+   ![output1](output/output1.jpg)
 - **output2:**
-   ![output2](output/output2.png)
+   ![output2](output/output2.jpg)
 ## Future Work
 
 - Improve the model's accuracy using deeper architectures.
